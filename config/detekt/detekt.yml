@@ -1,0 +1,32 @@
+build:
+  maxIssues: 0
+
+complexity:
+  LongMethod:
+    threshold: 60
+  LongParameterList:
+    functionThreshold: 10
+    constructorThreshold: 10
+  TooManyFunctions:
+    active: false
+
+formatting:
+  active: true
+  android: true
+  autoCorrect: true
+
+naming:
+  FunctionNaming:
+    functionPattern: '[a-zA-Z][a-zA-Z0-9]*'
+  TopLevelPropertyNaming:
+    constantPattern: '[A-Z][A-Za-z0-9]*'
+
+style:
+  MagicNumber:
+    active: false
+  UnusedPrivateMember:
+    active: true
+  MaxLineLength:
+    maxLineLength: 120
+  WildcardImport:
+    active: false
