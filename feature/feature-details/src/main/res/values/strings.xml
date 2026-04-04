@@ -1,0 +1,11 @@
+<resources>
+    <string name="error_border_code_unavailable">Código da fronteira indisponível.</string>
+    <string name="error_country_code_unavailable">Código do país indisponível.</string>
+    <string name="error_border_load_failed">Não foi possível carregar fronteiras agora.</string>
+    <string name="error_no_internet">Sem internet. Exibindo dados em cache.</string>
+    <string name="error_unauthorized">Não autorizado.</string>
+    <string name="error_server">Erro no servidor.</string>
+    <string name="error_not_found">Dados não encontrados.</string>
+    <string name="error_invalid_data">Dados inválidos.</string>
+    <string name="error_unknown">Erro inesperado.</string>
+</resources>
